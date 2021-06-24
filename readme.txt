@@ -2,6 +2,7 @@
 This repository is MIDI player for Pocket Miku with raspberry pi.
 Including Python3 codes, shell script for power on start and circuit information.
 Main functions are MIDI file play, bpm change and some MIDI controls (pitch, modulation, expression).
+Demo movie: https://youtu.be/_ahGq7sDnHk
 
 <environment>
 1. Hardware
@@ -59,6 +60,5 @@ Main functions are MIDI file play, bpm change and some MIDI controls (pitch, mod
 　  https://sites.google.com/site/himagine201206/home/dtm/nsx39/sysexnsx39
 4. HAT
  ・トランジスタ技術　2016/6 Apple Pi
-//
 //
 　
