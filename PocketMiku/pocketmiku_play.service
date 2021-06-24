@@ -1,0 +1,9 @@
+[Unit]
+Description = simple service
+
+[Service]
+Type = simple
+ExecStart = /home/pi/PocketMiku/pocketmiku_play.sh
+
+[Install]
+WantedBy = multi-user.target
