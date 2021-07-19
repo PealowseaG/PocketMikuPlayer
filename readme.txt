@@ -32,9 +32,14 @@ Demo movie: https://youtu.be/_ahGq7sDnHk
 
 <useage>
  1. nomal useage
+  $cd PocketMiku
+  $chmod +x *.py (*.sh)  # when only files copy
   $python3 pocketmiku_playerxx.py
   (When error happend, some pip or apt install executed more.)
+  or after make symbolic link pocketmiku_player.py from pocketmiku_playerxx.py
+  $./pocketmiku_play.sh
  2. power on start
+  after ckeck pocketmiku_play.sh executed
   create and enable pocketmiku_play.service (see <environment )
  
 <reference>
